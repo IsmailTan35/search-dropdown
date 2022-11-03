@@ -1,0 +1,14 @@
+html,
+body,
+#root {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

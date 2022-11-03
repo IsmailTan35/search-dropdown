@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  background: whitesmoke;
+  flex-direction: column;
+  gap: 10px;
+}
